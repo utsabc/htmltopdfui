@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the Ui component of the HTML to PDF generation service. A simple react app with Ck editor bootstrapped to it, it is able to parse RTF fields along with image content in base64 to generate pdf content using the service.
+
 ## Available Scripts
 
 In the project directory, you can run:
